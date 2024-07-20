@@ -19,3 +19,9 @@ The **Student Management System (SMS)** is a Python-based application designed t
 1. **Clone the repository:**
    ```sh
    git clone https://github.com/yourusername/student-management-system.git
+2. **Navigate to the project:**
+   ```sh
+   cd student-management-system
+3. **Install the required libraries:**
+   ```sh
+   pip install tkinter customtkinter
